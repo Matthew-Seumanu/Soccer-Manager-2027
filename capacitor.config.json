@@ -1,0 +1,8 @@
+{
+  "appId": "com.pitchside.career",
+  "appName": "Pitchside Career",
+  "webDir": "www",
+  "android": {
+    "backgroundColor": "#0a1120"
+  }
+}
